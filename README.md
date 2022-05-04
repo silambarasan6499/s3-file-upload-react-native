@@ -21,13 +21,11 @@ callBack = {(item)=>function(item)}
 
 
 component structure
-'
-<s3FileUploade>
+
 uploade_item:[]
 imageUrl:""
 imageKey:""
 callBack ={(item)=>uploadeImageDetails(item)}
-</s3FileUploade>'
 
 
 
