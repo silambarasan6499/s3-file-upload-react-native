@@ -30,3 +30,8 @@ callBack ={(item)=>uploadeImageDetails(item)}
 </s3FileUploade>
 
 
+
+
+
+
+
